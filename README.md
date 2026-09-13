@@ -166,7 +166,7 @@ This verifies scheduling logic, demand/capacity calculation, idempotency, and de
 
 - **[Live Demo Video](https://www.loom.com/share/8c59ce8a29b74f10b2bc53dc1c73c79b)** — Walkthrough of Phase 1 scheduling, demand/capacity detection, and the three-phase vision
 - **[Pitch Deck](./TempoPitchDeckpptx.pptx)** — Full presentation with research grounding, positioning, and demo script
-- **Screenshots** — UI flow, scheduled vs. deferred tasks, Ledger logging
+- **[Screenshots](./assets/)** — UI flow, scheduled vs. deferred tasks, Ledger logging (5 HEIC images from live demo)
 
 ## Current Status
 
