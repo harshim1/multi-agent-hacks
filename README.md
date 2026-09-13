@@ -162,6 +162,12 @@ This verifies scheduling logic, demand/capacity calculation, idempotency, and de
 - `.env.example` — Secrets template
 - `requirements.txt` — Python dependencies
 
+## Demos & Materials
+
+- **[Live Demo Video](https://www.loom.com/share/8c59ce8a29b74f10b2bc53dc1c73c79b)** — Walkthrough of Phase 1 scheduling, demand/capacity detection, and the three-phase vision
+- **[Pitch Deck](./TempoPitchDeckpptx.pptx)** — Full presentation with research grounding, positioning, and demo script
+- **Screenshots** — UI flow, scheduled vs. deferred tasks, Ledger logging
+
 ## Current Status
 
 **Phase 1:** Scaffold complete, local tests pass. Ready for credential configuration and live demo.
