@@ -183,3 +183,5 @@ This verifies scheduling logic, demand/capacity calculation, idempotency, and de
 ## License
 
 Built for hackathon evaluation. Code is example/demo work.
+https://www.loom.com/share/8c59ce8a29b74f10b2bc53dc1c73c79b
+
