@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python test_phase1.py)"
+      "Bash(python test_phase1.py)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Add comprehensive README for Tempo project *)"
     ]
   }
 }
